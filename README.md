@@ -1,9 +1,9 @@
-# Python Assignment
-##### Graded assignments for CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/)
-For Units:
+# Python 
+#####  Python units for CERT IV in Cybersecurity, 2020 at [BoxHill Institute](https://www.boxhill.edu.au/courses/certificate-iv-in-cyber-security-ct416-d/)
 ###### ICTPRG407 Write Script For Software Applications
 ###### ICTPRG405 Automate Processes
 
+##### Graded assignments
 - py1.py
     - Rock Paper Scissors Game  
 - py2.py
@@ -11,7 +11,7 @@ For Units:
 - py3.py
     - Maths Quest
 
-###### Other:
+##### Other:
 
 - term1.py
     - practise codes
