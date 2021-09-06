@@ -13,10 +13,12 @@ For Units:
 
 ###### Other:
 
-- evenNum.py
-    - Even number program
-- scoreList.py
-    - score list program
 - term1.py
     - practise codes
+- evenNum.py
+    - assessment task
+- scoreList.py
+    - assessment task
+- hot&cold.py
+    - This program tells if it is above or below freezing.
 
